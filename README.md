@@ -1,3 +1,1 @@
 ## COLABCHIK
-
-test text
